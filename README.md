@@ -15,33 +15,37 @@ The primary goal of DevFlow is to provide a hands-on learning experience in buil
 - Responsive Design: Mobile-friendly and responsive design.
 
 ## Prerequisites
+
 Ensure that you have the following installed on your local machine:
 
 - Node.js (v20.0.0 or later)
 - npm (v10.0.0. or later)
 
-## Installation 
+## Installation
 
 1. Clone the repository to your local machine
-    ```bash
-    git clone https://github.com/liammacp/devflow.git; cd devflow;
-    ```
+   ```bash
+   git clone https://github.com/liammacp/devflow.git; cd devflow;
+   ```
 2. Install project dependencies
-    ```bash
-    npm install
-    ```
+   ```bash
+   npm install
+   ```
 3. Start the development server
-    ```bash
-    npm run dev
-    ```
+   ```bash
+   npm run dev
+   ```
 
 You should then be able to open http://localhost:3000 with your browser to see the result.
 
 ## Learning Journey
+
 This project is a learning endeavor, and as such, constructive feedback, suggestions, and contributions are highly welcomed. The focus is on understanding the intricacies of Next.js, implementing best practices, and exploring advanced features and optimizations.
 
 ## Contributing
+
 While this is a personal learning project, feel free to fork the repository, explore the code, and even suggest improvements or fixes.
 
 ## License
+
 DevFlow is open-source and is licensed under the [MIT License](./LICENSE).
